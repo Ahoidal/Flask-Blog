@@ -1,2 +1,2 @@
 # Flask-Blog
-Learning Flask by making blog
+Learning Flask by making a blog
